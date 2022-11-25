@@ -110,4 +110,6 @@ Currently for this MVP we only support single user and we donot support custom s
 ![6](https://user-images.githubusercontent.com/56164789/145679142-fecb1152-74f5-4103-922a-fe153c82b345.png)
 ![5](https://user-images.githubusercontent.com/56164789/145679143-21ad0438-15ee-499b-8ad1-359fbff30f06.png)
 
-Made with :heart: and Dense Eclipse.
+
+
+Made with :heart: by Dense Eclipse.
