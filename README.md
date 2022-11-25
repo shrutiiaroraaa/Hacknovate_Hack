@@ -1,3 +1,6 @@
+# [Pause](#) — Product Documentation 
+
+
 **YOU NEED TO GRANT PERMISSION TO THIS APP TO USE IT PROPERLY SO DO NOT FORGOT TO DO THAT.**
 
 CREDENTIALS TO REDEEM POINTS:(It will be for demo purpose only as the amount will be deducted from the razorpay test balance.)
