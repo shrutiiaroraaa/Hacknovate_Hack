@@ -1,4 +1,4 @@
-# [Pause](#) — Product Documentation 
+# [Pause](http://pauseapp.harshitarora.in/) — Product Documentation 
 
 
 **YOU NEED TO GRANT PERMISSION TO THIS APP TO USE IT PROPERLY SO DO NOT FORGOT TO DO THAT.**
@@ -7,7 +7,7 @@ CREDENTIALS TO REDEEM POINTS:(It will be for demo purpose only as the amount wil
 EMAIL: harshit@gmail.com
 PASSWORD: razorpay
 
-**ABOUT**
+## ABOUT
 <br>
 For those who are wondering where did the time go today, this is the app for you .
 Pause is a potential launcher phone tracker app developed and designed to improve and
@@ -16,7 +16,9 @@ or employee to get more focused on their work in the “ New Normal ” environm
 Pause adapts your device’s usage and will show you the number of hours you have spent on
 your phone .What's cool is that you can even earn incentives .
 <br>
-**PROBLEM SOLVED**
+
+
+## PROBLEM SOLVED
 <br>
 The simple fact is that work from the home experiment has been a huge success. But "the
 new normal " environment has become a hot topic for many organizations and how will this
@@ -26,7 +28,9 @@ time spent on each app, what's more, pause also lets you earn rewards and if tha
 enough, this app will also tell you how addicted you are to your phone as we want you to be
 productive and adapt easily to "The New Normal" environment .
 <br>
-**FUNCTIONING**
+
+
+## FUNCTIONING
 <br>
 The core functioning of this app is based on “tracking”. It helps you manage the time you
 spend on your smartphone and fight phone addiction.
@@ -43,7 +47,9 @@ funds in the employee's account and they can get incentives
 Not only companies, It can be used by parents to make their children be more focused
 towards study and they can fund children's pocket money in it.
 <br>
-**USE CASES OR OBJECTIVE**
+
+
+## USE CASES OR OBJECTIVE
 <br>
 Pause helps you :
 a) Beat Phone Addiction
@@ -64,7 +70,9 @@ h) Reduce Wastage Of Time
 <br>
 i) Earn incentives
 <br>
-**FEATURES**
+
+
+## FEATURES
 <br>
 1) Easy multi-user interface.
 2) Has a Dashboard that provides all essential information at one place.
@@ -76,7 +84,8 @@ i) Earn incentives
 8) You get to earn incentives which will be transferred in your bank account .
 <br>
 
-**CONCLUSION**
+
+## CONCLUSION
 
 <br>
 ● Pause is a Smart Digital Solution to achieve digital wellness.
@@ -88,10 +97,10 @@ This makes Pause a proper phone tracker app
 <br>
 <br>
 
-**FUTURE SCOPE**
+## FUTURE SCOPE
 Currently for this MVP we only support single user and we donot support custom sign in sign up. so in future we will add Sign in and sign up, for now usage limit is 15 hr per day in future we will give user full customization options.
 
-**SCREENSHOTS**
+## SCREENSHOTS
 
 <br>
 ![10](https://user-images.githubusercontent.com/56164789/145679133-0f8d8ec8-8e16-485f-baa6-be0e8a6c4d49.png)
